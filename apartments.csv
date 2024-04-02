@@ -1,3 +1,24 @@
-Realtor,Address,Rooms,Size,URL,Price,Retrieved
-Alexander White,Götgatan 79,2 rum,24 m2,https://alexanderwhite.se/?post_type=kowboy_properties&p=19014,2 650 000 kr,2024-04-01 22:07:57
-Alexander White,Brännkyrkagatan 40,3 rum,102 m2,https://alexanderwhite.se/objekt/obj26608_1725697-brannkyrkagatan-40-stockholm/,13 220 000 kr,2024-04-01 22:07:57
+Realtor;Address;Rooms;Size;URL;Price;Retrieved
+Alicia Edelman;Hornsbruksgatan 3B;;;https://aliciaedelman.se/bostad/bostadsratt/hornsbruksgatan-3b-stockholm-obj12911_2051004623;5 295 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Frejgatan 34, 3 tr;;;https://aliciaedelman.se/bostad/bostadsratt/frejgatan-34-3-tr-stockholm-obj15808_2058232002;None;2024-04-02 20:55:20
+Alicia Edelman;Kungsbro strand 17;;;https://aliciaedelman.se/bostad/bostadsratt/kungsbro-strand-17-stockholm-obj12911_2055088920;3 795 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Responsgatan 14;;;https://aliciaedelman.se/bostad/bostadsratt/responsgatan-14-hagersten-obj12911_2015542303;2 450 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Ola Hanssonsgatan 1;;;https://aliciaedelman.se/bostad/bostadsratt/ola-hanssonsgatan-1-stockholm-obj12911_2062458951;2 650 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Lidnersplan 12, 3 tr;;;https://aliciaedelman.se/bostad/bostadsratt/lidnersplan-12-3-tr-stockholm-obj12911_2049482591;4 850 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Rosenborgsgatan 13, vån 2;;;https://aliciaedelman.se/bostad/bostadsratt/rosenborgsgatan-13-van-2-solna-obj15808_2036448270;4 650 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Sandhamnsgatan 1, 2 tr;;;https://aliciaedelman.se/bostad/bostadsratt/sandhamnsgatan-1-2-tr-stockholm-obj12911_2058673070;4 245 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Primusgatan 64, vån 3;;;https://aliciaedelman.se/bostad/bostadsratt/primusgatan-64-van-3-stockholm-obj15808_2059646770;6 495 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Rindögatan 30, 4/5 tr;;;https://aliciaedelman.se/bostad/bostadsratt/rindogatan-30-45-tr-stockholm-obj12911_2053321268;2 495 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Dannemoragatan 10;;;https://aliciaedelman.se/bostad/bostadsratt/dannemoragatan-10-stockholm-obj15808_2061110212;5 995 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Tulegatan 26, 4/4 tr;;;https://aliciaedelman.se/bostad/bostadsratt/tulegatan-26-stockholm-obj15808_2048694366;6 795 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Birkagatan 29, 1 tr;;;https://aliciaedelman.se/bostad/bostadsratt/birkagatan-29-1-tr-stockholm-obj15808_2058170213;7 395 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Möckelvägen 13, 2 tr;;;https://aliciaedelman.se/bostad/bostadsratt/mockelvagen-13-arsta-obj15808_2052886846;2 995 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Karlbergsvägen 53, 5 tr;;;https://aliciaedelman.se/bostad/bostadsratt/karlbergsvagen-53-5-tr-stockholm-obj15808_2063609508;None;2024-04-02 20:55:20
+Alicia Edelman;Karlbergsvägen 82B, 2 tr;;;https://aliciaedelman.se/bostad/bostadsratt/karlbergsvagen-82b-2-tr-stockholm-obj15808_2059271390;6 995 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Fagningsgatan 8, 3 tr;;;https://aliciaedelman.se/bostad/bostadsratt/fagningsgatan-8-3-tr-stockholm-obj12911_2051037510;4 795 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Rörstrandsgatan 4, 4,5 tr;;;https://aliciaedelman.se/bostad/bostadsratt/rorstrandsgatan-4-45-tr-stockholm-obj15808_2050938237;3 995 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Pilgatan 19A, 4 tr;;;https://aliciaedelman.se/bostad/bostadsratt/pilgatan-19a-4-tr-stockholm-obj15808_2056770106;None;2024-04-02 20:55:20
+Alicia Edelman;Kvarnholmsvägen 86 Acceptpris;;;https://aliciaedelman.se/bostad/bostadsratt/kvarnholmsvagen-86-kvarnholmen-obj12911_2050767315;3 595 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Tegnérgatan 55D, 5/5 tr;;;https://aliciaedelman.se/bostad/bostadsratt/tegnergatan-55d-vindsetage-stockholm-obj15808_2037486001;6 995 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Multrågatan 21, 6 tr;;;https://aliciaedelman.se/bostad/bostadsratt/multragatan-21-6-tr-vallingby-obj12911_2030793371;2 495 000 kr;2024-04-02 20:55:20
+Alicia Edelman;Sturevägen 29;;;https://aliciaedelman.se/bostad/bostadsratt/sturevagen-29-huddinge-obj12911_2011172401;1 995 000 kr;2024-04-02 20:55:20
